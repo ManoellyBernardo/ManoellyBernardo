@@ -1,2 +1,25 @@
-- 👋 Hi, I’m @ManoellyBernardo.
-- 👀 I’m interested in Java, games, books and pop culture.
+Hi, i am Manoelly 👩‍💻💖
+
+I’m interested in Java, games, books and pop culture. 🎮📚
+I have knowledge in technologies related to the front end and the back end, such as Java, HTML, CSS, Bootstrap, JavaScript. 🖖
+
+<div align="center">
+  <a href="https://github.com/manoellybernardo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoellyBernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoellyBernardo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="right" src="https://i.picasion.com/pic92/c1d97c2b4f04c35a00a543398c4444d7.gif" height="150" border="0" alt="https://picasion.com/" /></a>
+</div>
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/manoellybernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
