@@ -1,6 +1,6 @@
 Hi, i am Manoelly 👩‍💻💖
 
-I’m interested in Java, games, books and pop culture. 🎮📚
+I’m interested in Java, games, books and pop culture. 🎮📚</br>
 I have knowledge in technologies related to the front end and the back end, such as Java, HTML, CSS, Bootstrap, JavaScript. 🖖
 
 <div align="center">
