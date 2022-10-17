@@ -3,6 +3,8 @@ Hi, i am Manoelly 👩‍💻💖
 I’m interested in games, books and pop culture. 🎮📚</br>
 I have a degree in Nutrition and today I am studying Systems Analysis and Development. 🎓
 
+
+
 <div align="center">
   <a href="https://github.com/manoellybernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoellyBernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
