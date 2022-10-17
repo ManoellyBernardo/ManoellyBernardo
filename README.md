@@ -1,7 +1,7 @@
 Hi, i am Manoelly 👩‍💻💖
 
-I’m interested in Java, games, books and pop culture. 🎮📚</br>
-I have knowledge in technologies related to the front end and the back end, such as Java, HTML, CSS, Bootstrap, JavaScript. 🖖
+I’m interested in games, books and pop culture. 🎮📚</br>
+I have a degree in Nutrition and today I am studying Systems Analysis and Development. 🎓
 
 <div align="center">
   <a href="https://github.com/manoellybernardo">
